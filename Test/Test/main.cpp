@@ -3,9 +3,6 @@
 //  Test
 //
 //  Created by Fabio Fees on 02.10.22.
-//
-//
-//
 
 #include <iostream>
 
