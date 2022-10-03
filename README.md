@@ -1,2 +1,2 @@
-# AdvancedProgramming
-Collection of exercises for Python and C++
+# AdvancedProgramming in C++
+Collection of exercises for C++
